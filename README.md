@@ -10,13 +10,21 @@ Steps:
 3.Open the code.html file in any browser to view the project.
 
 you can use the following code 
+
 git clone https://github.com/Likith-dr/HTML-CSS.git
+
 cd  choose-file-required
+
 open code.html
 
+
 ====FOLDER-STRUCTURE====
-/html
+
+/FOLDER-REQUIRED
 │
+
 ├── code.html           --> Main HTML file
-├── style.css           -->External CSS file
+
+├── styles.css          -->External CSS file
+
 └── assets/             -->Folder for images, fonts, etc.
