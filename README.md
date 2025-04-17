@@ -10,8 +10,8 @@ Steps:
 3.Open the code.html file in any browser to view the project.
 
 you can use the following code 
-git clone https://github.com/yourusername/your-repo-name.git
-cd html/choose-file-required
+git clone https://github.com/Likith-dr/HTML-CSS.git
+cd  choose-file-required
 open code.html
 
 ====FOLDER-STRUCTURE====
