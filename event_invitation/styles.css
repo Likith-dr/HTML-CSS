@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0; /* Optional: Set a background color for the body */
+}
+
+.invitation-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 300px;
+}
+
+h1 {
+    color: white;
+    background-color: #7D3C98;
+    padding: 10px;
+    border-radius: 10px 10px 0 0;
+}
+
+.event-details h2 {
+    color: #7D3C98;
+}
+
+.rsvp-form label {
+    color: #7D3C98;
+}
+
+.rsvp-form input[type="text"]{
+   width: 90%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+}
+.rsvp-form input[type="email"] {
+    width: 90%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+}
+
+.rsvp-form button {
+    background-color: #7D3C98;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+}
+
